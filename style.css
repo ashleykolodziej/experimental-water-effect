@@ -15,9 +15,9 @@ h1 {
   position: absolute;
   top: 50%;
   right: 0;
-  transform: translate(25%, -100%);
+  transform: translate(24%, -100%);
   padding: 1vw;
-  font-size: 10vw;
+  font-size: 9.4vw;
   color: lightpink;
   mix-blend-mode: color-dodge;
   text-align: right;
